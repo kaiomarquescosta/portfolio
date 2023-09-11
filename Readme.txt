@@ -1,3 +1,6 @@
+Projeto de estudo de: Kaio Marques Costa
+Para fins oficiais, utilizar o read-me abaixo:
+
 Thanks for downloading this template!
 
 Template Name: iPortfolio
